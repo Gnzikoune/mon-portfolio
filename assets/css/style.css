@@ -3014,22 +3014,22 @@ canvas {
   font-size: 22px;
 }
 
-.st-social-link .st-social-btn .st-icon-name {
+/* .st-social-link .st-social-btn .st-icon-name {
   font-weight: 20;
   color: #fdfeff;
   overflow: hidden;
   max-width: 0;
   -webkit-transition: all 0.5s ease;
   transition: all 0.5s ease;
-}
+} */
 
-.st-social-link .st-social-btn:hover, .st-social-link .st-social-btn.active {
+/* .st-social-link .st-social-btn:hover, .st-social-link .st-social-btn.active {
   padding-right: 15px;
-}
+} */
 
-.st-social-link .st-social-btn:hover .st-icon-name, .st-social-link .st-social-btn.active .st-icon-name {
+/* .st-social-link .st-social-btn:hover .st-icon-name, .st-social-link .st-social-btn.active .st-icon-name {
   max-width: 140px;
-}
+} */
 
 .st-copyright-wrap {
   height: 72px;
