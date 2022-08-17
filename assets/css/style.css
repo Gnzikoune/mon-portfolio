@@ -987,7 +987,7 @@ hr {
       -ms-flex-align: center;
           align-items: center;
   position: absolute;
-  bottom: 30px;
+  bottom: 10px;
   padding-left: 12px;
   right: 100%;
 }
